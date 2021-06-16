@@ -67,6 +67,9 @@ OPT_CPPFLAGS += -DVWM
 # Mac OS X:
 #LDFLAGS += -L/usr/X11R6/lib
 
+#windows 10
+#LDFLAGS += C:\\Windows\System32\ExplorerFrame.dll
+
 ############################################################################
 # Build tools
 
